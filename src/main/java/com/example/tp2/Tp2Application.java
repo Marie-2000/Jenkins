@@ -8,7 +8,7 @@ public class Tp2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Tp2Application.class, args);
-		System.out.println("It is a continuous integration job";)
+		System.out.println("It is a continuous integration job");
 	}
 
 }
